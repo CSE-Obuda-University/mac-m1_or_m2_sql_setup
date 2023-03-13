@@ -10,3 +10,8 @@ services:
     ports:
       - "1433:1433"
     container_name: sql
+    volumes:
+      - sql-data:/var/opt/mssql/
+
+volumes:
+  sql-data:
