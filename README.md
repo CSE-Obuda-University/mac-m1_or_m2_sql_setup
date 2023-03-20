@@ -14,7 +14,7 @@ Download azure data studio, install it, and open it up. Follow steps below:
 
 1. Click on create a connection
 2. In the opened form, write `localhost` for the server
-3. Write `Yalchin403` for the username
+3. Write `SA` for the username
 4. Write `4FL^xo9KVg%yF%F` for the password
 5. Toggle remember password
 
